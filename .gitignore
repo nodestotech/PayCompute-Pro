@@ -1,0 +1,11 @@
+venv/
+env/
+__pycache__/
+*.py[cod]
+.streamlit/
+*.csv
+download_audit.json
+.env
+.idea/
+.vscode/
+Thumbs.db
